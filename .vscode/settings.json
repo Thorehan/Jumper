@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "GameEngines2.sln"
+    "dotnet.defaultSolution": "Jumper.sln"
 }
