@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Apples
+  - Trap
   layers:
   - Default
   - TransparentFX
